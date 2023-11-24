@@ -2,6 +2,13 @@
 ## This is the event-managemnet app where you can select upto 3 events and register them. You can unregister event and cannot register event of same time.
 ### You can remove selected event from selected event list and unregister to the event from registered event list.
 ### You can also signup and login through app and logged out.
+## Tech stack I used here are following:-
+1. JavaScript
+2. React
+3. Mongodb
+4. node.js
+5. Redux
+
 ### Sharing some of the pictures from app.
 # Signup and login page
 ![Screenshot from 2023-10-22 21-37-13](https://github.com/madhurisonawat/event-management/assets/63995668/7911693f-657a-4d2a-844f-7f3dbd5e53e5)
